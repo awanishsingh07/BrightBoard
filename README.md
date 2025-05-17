@@ -5,7 +5,7 @@ BrightBoard is a modern and responsive educational website where users can explo
 ## 🌐 Live Demo
 
 👉 [View Website]()  
-_(Replace with your actual GitHub Pages URL after deploying)_
+_(https://bright-board.vercel.app/)_
 
 ---
 
@@ -13,7 +13,7 @@ _(Replace with your actual GitHub Pages URL after deploying)_
 
 - 🧠 Educational course listings
 - 👩‍🏫 Teacher profiles
-- 📍 Integrated Google Map (Bhopal)
+- 📍 Integrated Google Map
 - 📬 Contact form
 - 📱 Responsive design
 - 🔗 Social media links
@@ -36,6 +36,6 @@ _(Replace with your actual GitHub Pages URL after deploying)_
 
 Built with ❤️ by **Awanish Singh**  
 📩 Email: *awanishsingh0325@gmail.com*  
-🔗 Portfolio: _(\_\_\_\_)_
+🔗 Portfolio:
 
 ---
